@@ -1,0 +1,195 @@
+*{
+   padding:0;
+   margin:0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+     background-color: rgb(197, 188, 188);
+     padding-right: 30px;
+     height: 100px;
+}
+
+.navbar ul li{
+    list-style-type: none;
+    font-size: 20px;
+    color: black;
+}
+
+.fast-img img{
+  width: 1320px;
+  margin-top: 5px;
+  padding-left: 8px;
+  padding-right:8px;
+}
+
+.second-img img{
+    width: 1320px;
+    margin-top: 5px;
+    padding-left: 8px;
+    padding-right:8px;
+}
+
+
+
+
+.second-part{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding-left: 35px;
+    margin-top: -4px;
+
+}
+ 
+
+
+.text-part h3{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 22px;
+}
+
+.text-part h1{
+    color:black ;
+    font-size: 40px;
+    padding-bottom:10px;
+}
+ 
+.text-part p{
+    font-size: 18px;
+    color: black;
+}
+
+.text-part img{
+    width: 700px;
+    padding-right:15px;
+}
+
+.three-img img{
+    width: 1320px;
+    margin-top: 5px;
+    padding-left: 8px;
+    padding-right:8px;
+    margin-top: -4px;
+}
+
+
+.Three-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -4px;
+    
+}
+
+.Three-part-text{
+    padding-left: 30px;
+}
+.three-part-img img{
+    width: 700px;
+    padding-left: 9px;
+}
+
+.Three-part-text h3{
+    color: black;
+    font-size: 40px;
+    padding-bottom: 22px;
+}
+
+.Three-part-text h1{
+    color:black ;
+    font-size: 30px;
+    padding-bottom:10px;
+}
+
+.Three-part-text p{
+    font-size: 18px;
+    color: black;
+}
+
+
+.four-img img{
+    width: 1320px;
+    margin-top: -4px;
+    padding-left: 8px;
+    padding-right:8px;
+}
+
+
+.four-part{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding-left: 35px;
+    margin-top: -4px;
+}
+
+
+.four-part-text h3{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 22px;
+}
+
+.four-part-text h1{
+    color:black ;
+    font-size: 40px;
+    padding-bottom:10px;
+}
+
+.four-part-text p{
+    font-size: 18px;
+    color: black;
+}
+
+.four-part-img img{
+    width: 700px;
+    padding-right:15px;
+}
+
+
+.five-img img{
+    width: 1320px;
+    margin-top: -4px;
+    padding-left: 8px;
+    padding-right:8px;
+}
+
+
+.footer img{
+    width: 1320px;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.footer-text ul li{
+    font-size: 13px;
+    text-align: start;
+     padding-bottom: 12px;  
+     padding-left: 30px;
+
+}
+.footer-text p{
+    font-size: 25px;
+    color: blueviolet;
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
+
+
+
+.Created-name p{
+    font-size: 30px;
+    text-align: end;
+    padding-right: 30px;
+    color: rgb(150, 147, 147);
+}
